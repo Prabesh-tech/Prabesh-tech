@@ -1,5 +1,24 @@
-<h1 align="center">Hi 👋, I'm Prabesh KAfle</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello+%F0%9F%91%8B+It's+me+Prabesh" alt="Typing animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&lines=Computer+Science+Student;Java+Developer;Web+Enthusiast" />
+</p>
+
+
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250" alt="coding GIF 1" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enRzejZwcXlvbHJlNGM5MnV2b3h2NDNlMHY0cXMwNTU2azFrbTdrciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaO6TmgQmKEQ4516sE/200.webp" width="250" height="250" alt="coding GIF 2" />
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ0c2pkcjdldjY5djg1aXQxdXl4cnV4cnlobGxheWc5enUwMHYybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="250" height="250" alt="coding GIF 3" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhnYnJvaDVnd2Z5Y2FjdW91NTRhd2RsYzFlYWo3aTBpeGpneDE3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" height="250" alt="coding GIF 4" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabesh-tech&label=Profile%20views&color=0e75b6&style=flat" alt="prabesh-tech" /> </p>
 
